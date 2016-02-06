@@ -1,0 +1,16 @@
+---
+layout: inner
+date: 2015-12-18
+img: https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/event-screenshot.png
+alt: Event Landing Page
+project-date: Dec 2015
+
+category: template
+live-preview: ''
+featured-image: 'https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/event-screenshot.png'
+lead-text: 'Event Landing Page Template'
+description: Version 1.0 Created Nov 2015. Responsive template using Bootstrap. Form stylings within the template.
+
+---
+
+<img src="https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/event-mobile-screenshot.png" />

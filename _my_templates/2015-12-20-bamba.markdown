@@ -1,0 +1,14 @@
+---
+layout: inner
+date: 2015-12-20
+img: https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/bamba-site.png
+alt: bamba template
+project-date: Dec 2015
+
+live-preview: ''
+category: template
+featured-image: 'https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/bamba-site.png'
+lead-text: 'Bamba Template'
+description: Version 1.0 Created August 2015. Responsive template using Bootstrap. 
+
+---

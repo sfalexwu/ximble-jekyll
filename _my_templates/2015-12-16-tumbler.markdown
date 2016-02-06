@@ -1,0 +1,14 @@
+---
+layout: inner
+date: 2015-12-16
+img: https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/tumblr-screenshot.png
+alt: Tumbler Template
+project-date: Dec 2015
+
+category: template
+live-preview: ''
+featured-image: 'https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/tumblr-screenshot.png'
+lead-text: 'Tumbler Template'
+description: Version 1.0 Created Oct 2015. Responsive template using Bootstrap. Form stylings within the template.
+
+---

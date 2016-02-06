@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Scotch Jekyll Bootstrap</title>
+ <link href="http://scotch-io.github.io/atom.xml" rel="self"/>
+ <link href="http://scotch-io.github.io/"/>
+ <updated>2016-02-05T18:09:01-08:00</updated>
+ <id>http://scotch-io.github.io</id>
+ <author>
+   <name>Nicholas Cerminara</name>
+   <email>nick@scotch.io</email>
+ </author>
+
+ 
+ <entry>
+   <title>A/B Testing tips</title>
+   <link href="http://scotch-io.github.io/blog/ab-testing/"/>
+   <updated>2016-01-04T00:00:00-08:00</updated>
+   <id>http://scotch-io.github.io/blog/ab-testing</id>
+   <content type="html">&lt;p&gt;A/B testing is crucial to drive conversion.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How To Upload Templates Into Marketo</title>
+   <link href="http://scotch-io.github.io/blog/how-to-upload-templates/"/>
+   <updated>2015-12-20T00:00:00-08:00</updated>
+   <id>http://scotch-io.github.io/blog/how-to-upload-templates</id>
+   <content type="html">&lt;p&gt;It’s very easy to upload templates into Marketo’s editors. You first go into Design Studio.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How To Build Marketo Guided Landing Page Templates</title>
+   <link href="http://scotch-io.github.io/blog/how-to-build-guided-marketo-landing-pages/"/>
+   <updated>2015-12-18T00:00:00-08:00</updated>
+   <id>http://scotch-io.github.io/blog/how-to-build-guided-marketo-landing-pages</id>
+   <content type="html">&lt;p&gt;A how to guide to build landing page templates for Marketo&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Responsive Marketo Landing Pages</title>
+   <link href="http://scotch-io.github.io/blog/responsive-landing-pages/"/>
+   <updated>2015-12-08T00:00:00-08:00</updated>
+   <id>http://scotch-io.github.io/blog/responsive-landing-pages</id>
+   <content type="html">&lt;p&gt;In May of 2015, Marketo released their guided landing page editor with support for responsive landing page templates. Before this, you had to make due with non-repsonsive landing pages in order to use any of the Marketo widgets or analytics. There were workaround/hacks that you could do, but it was messy and difficult. Now we are able to create a seamless user experience across all devices and screensizes to generate leads and conversions.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

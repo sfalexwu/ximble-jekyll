@@ -1,0 +1,15 @@
+---
+layout: inner
+date: 2015-12-28
+img: https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/pirate-feature-v2.png
+alt: pirate template
+project-date: Dec 2015
+
+live-preview: ''
+category: template
+featured-image: 'https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/pirate-feature-v2.png'
+lead-text: 'Pirate Template'
+description: Version 1.0 Created July 2015. Responsive template using Bootstrap. 
+
+---
+

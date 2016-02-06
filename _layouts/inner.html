@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body>
+{% include nav.html %}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>{% if page.title %}
+                {{ page.title }}
+                {% else %}
+                {{ site.data.global.title }}
+                {% endif %}</h2>
+
+            <p class="lead">
+                {% if page.lead-text %}
+                {{ page.lead-text }}
+                {% elsif post.lead-text %}
+                {{ post.lead-text }}
+                {% else %}
+                {{ site.data.global.description }}
+                {% endif %}
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-8">
+            <a href="#">
+                <img src="{{ page.featured-image }}" class="img-responsive img-centered" alt="{{ page.alt }}">
+            </a>
+            <button class="btn btn-default btn-xs" href="{{ page.live-preview }}">Live Preview</button>
+            <p class="description">{{ page.description }}</p>
+
+        </div>
+        <div class="col-md-4">
+            <ul class="list-group">
+                <li class="list-group-item">Client:
+                    <strong>{{ page.client }}
+                    </strong>
+                </li>
+                <li class="list-group-item">Date:
+                    <strong>{{ page.project-date }}
+                    </strong>
+                </li>
+                <li class="list-group-item">Service:
+                    <strong>{{ page.category }}
+                    </strong>
+                </li>
+            </ul>
+            <button type="button" aria-pressed="true" class="btn btn-default btn-block">Buy Now</button>
+        </div>
+    </div>
+</div>
+
+{% include footer.html %}
+{% include js.html %}
+
+</body>
+</html>
