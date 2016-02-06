@@ -1,8 +1,8 @@
 ---
 ---
-@import '../_sass/bootstrap';
-@import '../_sass/syntax-highlighting';
-@import '../_sass/base';
+@import '../_sass/bootstrap',
+        '../_sass/syntax-highlighting',
+        '../_sass/base';
 
 
 
@@ -17,7 +17,6 @@ body {
     line-height: 30px;
     padding-top: 51px;
     -webkit-font-smoothing: antialiased;
-
 }
 a {
   color: $primary-color;
@@ -34,7 +33,6 @@ h1 {
 }
 .navbar-default{
   background-color:#FFF;
-
 }
 .navbar-nav > li > a {
   padding-top:25px;
