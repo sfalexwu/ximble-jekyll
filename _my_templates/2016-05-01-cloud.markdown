@@ -1,0 +1,20 @@
+---
+layout: inner
+date: 2016-05-01
+img: https://s3-us-west-1.amazonaws.com/templatestud.io/library/series/cloud/cloud-desktop-screen.png 
+alt: Cloud template
+project-date: May 2016
+sales: 4
+price: $50
+
+files-included: HTML, images
+
+type: Responsive Bootstrap 3.3.4
+mobile-preview: 'https://s3-us-west-1.amazonaws.com/templatestud.io/library/series/cloud/cloud-mobile.png'
+category: template
+featured-image: 'https://s3-us-west-1.amazonaws.com/templatestud.io/library/series/cloud/cloud-desktop.png'
+lead-text: 'Cloud Template'
+description: Includes social sharing widget, 2 styled forms, interchangeable icons, ability to toggle sections.
+buy: 'https://gum.co/PXXLn'
+
+---

@@ -1,5 +1,5 @@
 # Site settings
-title: Templatestud.io
+title: TEMPLATESTUD.IO
 email: templatestud@gmail.com
 url: https://templatestud.io
 description: "We help companies make more money with custom Marketo templates"
@@ -40,7 +40,7 @@ gems:      [jekyll-paginate]
 
 # Conversion
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 lsi:         false
 excerpt_separator: "\n\n"
 

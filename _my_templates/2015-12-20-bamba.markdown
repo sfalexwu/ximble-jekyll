@@ -4,11 +4,17 @@ date: 2015-12-20
 img: https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/bamba-site.png
 alt: bamba template
 project-date: Dec 2015
+sales: 9
+price: $50
 
-live-preview: ''
+files-included: HTML, images
+
+type: Responsive Bootstrap 3.3.4
+mobile-preview: ''
 category: template
 featured-image: 'https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/bamba-site.png'
 lead-text: 'Bamba Template'
 description: Version 1.0 Created August 2015. Responsive template using Bootstrap. 
+buy: 'https://gumroad.com/l/VFfxY'
 
 ---

@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link href="//fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
+    <link href='https://s3-us-west-1.amazonaws.com/templatestud.io/assets/fonts/bazar.ttf' rel='stylesheet' type='text/css'>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -31,7 +32,6 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
-
 <body id="page-top">
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WW7FFW"
@@ -42,7 +42,6 @@
         '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-WW7FFW');</script>
 <!-- End Google Tag Manager -->
-<body>
    <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
@@ -54,7 +53,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="/">Templatestud.io</a>
+                <a class="navbar-brand" href="/">TEMPLATESTUD.IO</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -65,11 +64,15 @@
                     </li>
 
                     <li class="page-scroll">
+                        <a href="/store/">Store</a>
+                    </li>
+
+                    <li class="page-scroll">
                         <a href="/blog/">Blog</a>
                     </li>
 
                     <li class="page-scroll">
-                        <a href="https://templatestud.io#form">Contact</a>
+                        <a class="" data-toggle="modal" data-target="#formModal">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -78,10 +81,9 @@
         <!-- /.container-fluid -->
     </nav>
 
-
 <div class="container">
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-12 pad-top">
             <h2>
                 Tumbler
                 </h2>
@@ -95,31 +97,51 @@
     </div>
     <div class="row">
         <div class="col-md-8">
-            <a href="#">
-                <img src="https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/tumblr-screenshot.png" class="img-responsive img-centered" alt="Tumbler Template">
-            </a>
-            <button class="btn btn-default btn-xs" href="">Live Preview</button>
-            <p class="description">Version 1.0 Created Oct 2015. Responsive template using Bootstrap. Form stylings within the template.</p>
+            <div class="pad-btm">
+                <img src="https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/tumblr-screenshot.png" class="img-responsive img-centered pad-btm" alt="Tumbler Template">
 
+                <a target="_blank" href="">Mobile preview</a>
+                <p class="description">Form CSS styling embedded within the template.</p>
+            </div>
         </div>
+
         <div class="col-md-4">
             <ul class="list-group">
-                <li class="list-group-item">Client:
-                    <strong>
+                <li class="list-group-item">Price:
+                    <strong>$50
                     </strong>
                 </li>
-                <li class="list-group-item">Date:
-                    <strong>Dec 2015
+                <li class="list-group-item">Sales:
+                    <strong>14
                     </strong>
                 </li>
-                <li class="list-group-item">Service:
-                    <strong>template
+                <li class="list-group-item">Created:
+                    <strong>February 2016
                     </strong>
+                </li>
+                <li class="list-group-item">
+                    <a id="bsPopover" data-toggle="popover" data-trigger="hover" data-trigger="focus" data-content="Assistance with questions, bugs & issues. Does not include customizations or installations.">
+                        Free Support <i class="fa fa-question-circle-o" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li class="list-group-item">Files Included:
+                        HTML, images
+                </li>
+                <li class="list-group-item">Type:
+                    Responsive Bootstrap 3.3.4
                 </li>
             </ul>
-            <button type="button" aria-pressed="true" class="btn btn-default btn-block">Buy Now</button>
+            <a target="_blank" href="https://gumroad.com/l/sCKi" type="button" aria-pressed="true" class="btn btn-2"> <i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy Now</a>
         </div>
     </div>
+</div>
+
+<!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+<div class="scroll-top page-scroll visible-xs visible-sm text-center pad-btm">
+    <a class="" href="#page-top">
+        <i class="fa fa-chevron-up fa-2x"></i><br/>
+        TOP
+    </a>
 </div>
 
 <!-- Footer -->
@@ -128,19 +150,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    Copyright &copy; Templatestud.io 2016
+                     Templatestud.io <i class="fa fa-heart" aria-hidden="true"></i> 2016
                 </div>
             </div>
         </div>
     </div>
 </footer>
 
-<!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
-<div class="scroll-top page-scroll visible-xs visible-sm">
-    <a class="btn btn-primary" href="#page-top">
-        <i class="fa fa-chevron-up"></i>
-    </a>
-</div>
+
 
 
 <!-- JavaScript -->
@@ -154,7 +171,56 @@
             return text === "Sent!" ? "Send" : "Sent!";
         });
     });
+
+    $('#formModal').modal();
 </script>
 
+<div class="modal fade" id="formModal" tabindex="-1" role="dialog" aria-labelledby="FormModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <form action="https://docs.google.com/a/templatestud.io/forms/d/11VkDH_uJyLC9H8PGm3SPnK30k084qUpd3HIArAfYRZc/formResponse" method="POST" id="ss-form" target="_self" onsubmit="" _lpchecked="1"><ol role="list" class="ss-question-list" style="padding-left: 0">
+                <h1 class="text-center"><i class="fa fa-paper-plane-o" aria-hidden="true"></i> Get Free Proposal</h1>
+                <p class="sub-title" style="color:#FFF; border-bottom:1px solid #FFF;">We build custom templates from your designer or we can create a design based off your company styleguide.</p>
+                <div class="ss-form-question errorbox-good" role="listitem">
+                    <div dir="auto" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
+                        <label class="ss-q-item-label" for="entry_2134796595"><div class="ss-q-title">Email
+                            <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+                            <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
+                            <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
+                        <input type="text" name="entry.2134796595" value="" class="ss-q-short" id="entry_2134796595" dir="auto" aria-label="Email  " aria-required="true" required="" title="">
+                        <div class="error-message" id="1407521184_errorMessage"></div>
+                        <div class="required-message">This is a required question</div>
+                    </div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+                <div dir="auto" class="ss-item  ss-paragraph-text"><div class="ss-form-entry">
+                    <label class="ss-q-item-label" for="entry_2058532328"><div class="ss-q-title">Message
+                    </div>
+                        <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
+                    <textarea name="entry.2058532328" rows="8" cols="0" class="ss-q-long" id="entry_2058532328" dir="auto" aria-label="Message"></textarea>
+                    <div class="error-message" id="2064782784_errorMessage"></div>
+                    <div class="required-message">This is a required question</div>
+                </div></div></div>
+                <input type="hidden" name="draftResponse" value="[,,&quot;-3856189209529660640&quot;]
+		">
+                <input type="hidden" name="pageHistory" value="0">
+
+
+
+                <input type="hidden" name="fbzx" value="-3856189209529660640">
+
+                <div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
+                    <input type="submit" name="submit" value="Submit" id="ss-submit" class="btn btn-2 jfk-button-action">
+
+                </td>
+                    <td dir="rtl" width="100%"><a style="color:#FFF;" data-dismiss="modal">Close</a></td>
+                </tr></tbody></table></div></ol></form>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('[data-toggle="popover"]').popover();
+    });
+</script>
 </body>
 </html>

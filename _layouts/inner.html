@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html>
 {% include head.html %}
-<body>
 {% include nav.html %}
-
 
 <div class="container">
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-12 pad-top">
             <h2>{% if page.title %}
                 {{ page.title }}
                 {% else %}
@@ -27,35 +25,53 @@
     </div>
     <div class="row">
         <div class="col-md-8">
-            <a href="#">
-                <img src="{{ page.featured-image }}" class="img-responsive img-centered" alt="{{ page.alt }}">
-            </a>
-            <button class="btn btn-default btn-xs" href="{{ page.live-preview }}">Live Preview</button>
-            <p class="description">{{ page.description }}</p>
+            <div class="pad-btm">
+                <img src="{{ page.featured-image }}" class="img-responsive img-centered pad-btm" alt="{{ page.alt }}">
 
+                <a target="_blank" href="{{ page.mobile-preview }}">Mobile preview</a>
+                <p class="description">{{ page.description }}</p>
+            </div>
         </div>
+
         <div class="col-md-4">
             <ul class="list-group">
-                <li class="list-group-item">Client:
-                    <strong>{{ page.client }}
+                <li class="list-group-item">Price:
+                    <strong>{{ page.price }}
                     </strong>
                 </li>
-                <li class="list-group-item">Date:
+                <li class="list-group-item">Sales:
+                    <strong>{{ page.sales }}
+                    </strong>
+                </li>
+                <li class="list-group-item">Created:
                     <strong>{{ page.project-date }}
                     </strong>
                 </li>
-                <li class="list-group-item">Service:
-                    <strong>{{ page.category }}
-                    </strong>
+                <li class="list-group-item">
+                    <a id="bsPopover" data-toggle="popover" data-trigger="hover" data-trigger="focus" data-content="Assistance with questions, bugs & issues. Does not include customizations or installations.">
+                        Free Support <i class="fa fa-question-circle-o" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li class="list-group-item">Files Included:
+                        {{ page.files-included }}
+                </li>
+                <li class="list-group-item">Type:
+                    {{ page.type }}
                 </li>
             </ul>
-            <button type="button" aria-pressed="true" class="btn btn-default btn-block">Buy Now</button>
+            <a target="_blank" href="{{ page.buy }}" type="button" aria-pressed="true" class="btn btn-2"> <i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy Now</a>
         </div>
     </div>
 </div>
 
 {% include footer.html %}
 {% include js.html %}
+{% include form-modal.html %}
 
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('[data-toggle="popover"]').popover();
+    });
+</script>
 </body>
 </html>

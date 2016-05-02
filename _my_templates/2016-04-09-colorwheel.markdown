@@ -1,15 +1,20 @@
 ---
 layout: inner
-date: 2015-12-09
+date: 2016-04-09
 img: https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/colorwheel-screenshot-912.png
 alt: colorwheel template
-project-date: Dec 2015
+project-date: April 2016
+sales: 6
+price: $50
+files-included: HTML, images
 
+type: Responsive Bootstrap 3.3.4
 category: template
-live-preview: ''
+mobile-preview: 'https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/colorwheel-mobile-1.png'
 featured-image: 'https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/colorwheel-screenshot.png'
 lead-text: 'Colorwheel Template'
-description: Version 1.0 Created Dec 2015. Responsive template using Bootstrap. Form stylings within the template.
+description: Form CSS styling embedded within the template.
+buy: 'https://gumroad.com/l/EpHjL'
 
 ---
 <img src="https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/colorwheel-mobile-1.png" />
