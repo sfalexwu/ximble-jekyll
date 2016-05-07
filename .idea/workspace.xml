@@ -5,7 +5,29 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/form-modal.html" afterPath="$PROJECT_DIR$/_includes/form-modal.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/nav.html" afterPath="$PROJECT_DIR$/_includes/nav.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.scss" afterPath="$PROJECT_DIR$/css/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/pricing.html" afterPath="$PROJECT_DIR$/_layouts/pricing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="$PROJECT_DIR$/_site/about/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/ab-testing/index.html" afterPath="$PROJECT_DIR$/_site/blog/ab-testing/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/how-to-build-guided-marketo-landing-pages/index.html" afterPath="$PROJECT_DIR$/_site/blog/how-to-build-guided-marketo-landing-pages/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/how-to-upload-templates/index.html" afterPath="$PROJECT_DIR$/_site/blog/how-to-upload-templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/index.html" afterPath="$PROJECT_DIR$/_site/blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/responsive-landing-pages/index.html" afterPath="$PROJECT_DIR$/_site/blog/responsive-landing-pages/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/style.css" afterPath="$PROJECT_DIR$/_site/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page2/index.html" afterPath="$PROJECT_DIR$/_site/page2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pricing/index.html" afterPath="$PROJECT_DIR$/_site/pricing/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/store/index.html" afterPath="$PROJECT_DIR$/_site/store/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/template/bamba/index.html" afterPath="$PROJECT_DIR$/_site/template/bamba/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/template/clockwork/index.html" afterPath="$PROJECT_DIR$/_site/template/clockwork/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/template/cloud/index.html" afterPath="$PROJECT_DIR$/_site/template/cloud/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/template/colorwheel/index.html" afterPath="$PROJECT_DIR$/_site/template/colorwheel/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/template/ebook/index.html" afterPath="$PROJECT_DIR$/_site/template/ebook/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/template/event-lp/index.html" afterPath="$PROJECT_DIR$/_site/template/event-lp/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/template/newyork/index.html" afterPath="$PROJECT_DIR$/_site/template/newyork/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/template/pirate/index.html" afterPath="$PROJECT_DIR$/_site/template/pirate/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/template/tumbler/index.html" afterPath="$PROJECT_DIR$/_site/template/tumbler/index.html" />
     </list>
     <ignored path="sfalexwu.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,28 +51,30 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.509804">
-              <caret line="176" column="13" selection-start-line="176" selection-start-column="13" selection-end-line="176" selection-end-column="13" />
+            <state vertical-scroll-proportion="-74.117645">
+              <caret line="252" column="20" selection-start-line="252" selection-start-column="18" selection-end-line="252" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nav.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="nav.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/nav.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.25">
-              <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
-              <folding />
+            <state vertical-scroll-proportion="0.62423503">
+              <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#1;n#div#0;n#nav#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="form-modal.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="form-modal.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/form-modal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -72,10 +96,9 @@
       <file leaf-file-name="pricing.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/pricing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-28.75">
-              <caret line="134" column="83" selection-start-line="134" selection-start-column="83" selection-end-line="134" selection-end-column="83" />
+            <state vertical-scroll-proportion="-4.375">
+              <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
               <folding>
-                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#article#0;n#div#0;n#div#0;n#div#0;n#section#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -156,10 +179,10 @@
         <option value="$PROJECT_DIR$/_includes/hero.html" />
         <option value="$PROJECT_DIR$/_includes/portfolio_grid.html" />
         <option value="$PROJECT_DIR$/_pages/pricing.md" />
-        <option value="$PROJECT_DIR$/_layouts/pricing.html" />
-        <option value="$PROJECT_DIR$/_includes/nav.html" />
         <option value="$PROJECT_DIR$/css/style.scss" />
+        <option value="$PROJECT_DIR$/_layouts/pricing.html" />
         <option value="$PROJECT_DIR$/_includes/form-modal.html" />
+        <option value="$PROJECT_DIR$/_includes/nav.html" />
       </list>
     </option>
   </component>
@@ -337,7 +360,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="23" width="1607" height="959" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30580077" sideWeight="0.47065592" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -345,7 +368,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24968474" sideWeight="0.4959724" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30580077" sideWeight="0.5293441" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30580077" sideWeight="0.5293441" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -777,10 +800,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/pricing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-28.75">
-          <caret line="134" column="83" selection-start-line="134" selection-start-column="83" selection-end-line="134" selection-end-column="83" />
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
           <folding>
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#article#0;n#div#0;n#div#0;n#div#0;n#section#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -788,16 +810,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.509804">
-          <caret line="176" column="13" selection-start-line="176" selection-start-column="13" selection-end-line="176" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.25">
-          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+        <state vertical-scroll-proportion="-74.117645">
+          <caret line="252" column="20" selection-start-line="252" selection-start-column="18" selection-end-line="252" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -805,8 +819,18 @@
     <entry file="file://$PROJECT_DIR$/_includes/form-modal.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62423503">
+          <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#1;n#div#0;n#nav#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
