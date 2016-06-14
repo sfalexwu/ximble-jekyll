@@ -17,7 +17,9 @@ collections:
    my_templates:
     output: true
     permalink: /:categories/:title/
-
+   my_emails:
+    output: true
+    permalink: /:categories/:title/
 
 
 # Handling Reading

@@ -10,7 +10,7 @@
 
                     {% for post in site.posts %}
                     <div class="row blog-row">
-                        <a href="{{ post.url }}"><img src="..//img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}"></a>
+                        <a href="{{ post.url }}"><img src="../img/blog/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}"></a>
                         <div class="col-md-3 col-sm-3">
                             <div class="listing-meta">
                                 <span><i class="fa fa-calendar"></i> {{ post.date | date: '%B %d, %Y' }}</span><br/>
@@ -21,7 +21,7 @@
                             <a href="{{ post.url }}">
                                 <div class="blog-content clearfix">
                                     <h3 class="caption-title">{{ post.title }}</h3>
-                                    <p class="">{{ post.lead_text }}</p>
+                                    <p class="">{{ post.lead-text }}</p>
                                 </div>
                             </a>
                         </div>
@@ -67,7 +67,6 @@
 
 {% include footer.html %}
 {% include js.html %}
-{% include form-modal.html %}
 
 <script type="text/javascript">
     $(document).ready(function() {

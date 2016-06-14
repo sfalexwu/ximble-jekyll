@@ -1,20 +1,20 @@
 ---
 layout: inner
 date: 2016-05-06
-img: https://s3-us-west-1.amazonaws.com/templatestud.io/library/series/ebook/ebook-screenshot-desktop-750.jpg
+img: ebook-screenshot-desktop-750.jpg
 alt: eBook template
 project-date: May 2016
 sales: NEW
-price: $160
+price: $110
 
 files-included: HTML, images
 
 type: Responsive Bootstrap 3.3.6
-mobile-preview: 'https://s3-us-west-1.amazonaws.com/templatestud.io/library/series/ebook/ebook-screenshot-mobile.jpg'
+mobile-preview: 'ebook-screenshot-mobile.jpg'
 category: template
-featured-image: 'https://s3-us-west-1.amazonaws.com/templatestud.io/library/series/ebook/ebook-screenshot-desktop.jpg'
-lead-text: 'eBook landing page + thank you confirmation page'
-description: Fixed header with phone number and Marketo social share widget. Just drag in your social share widget within the Marketo editor. Easily change the colors of the template within the editor. Thank you confirmation landing page included. Includes 3 column responsive section where you can include related resources. 
-buy: 'https://gum.co/PXXLn'
+featured-image: 'ebook-screenshot-desktop.jpg'
+lead-text: 'eBook landing page'
+description: Fixed header with phone number and Marketo social share widget. Just drag in your social share widget within the Marketo editor. Easily change the colors of the template within the editor.
+buy: 'https://gum.co/pcle'
 
 ---

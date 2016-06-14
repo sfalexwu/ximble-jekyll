@@ -1,17 +1,17 @@
 ---
 layout: inner
 date: 2015-12-27
-img: https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/pirate-feature-v2.png
+img: pirate-feature-v2.png
 alt: pirate template
 project-date: Dec 2015
 sales: 5
-price: $30
+price: $75
 files-included: HTML, images
 
 type: Responsive Bootstrap 3.3.4
-mobile-preview: 'https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/ny-mobile-screenshot.png'
+mobile-preview: 'gym-mobile.jpg'
 category: template
-featured-image: 'https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/pirate-feature-v2.png'
+featured-image: 'pirate-feature-v2.png'
 lead-text: 'Pirate Template'
 description: Form CSS styling embedded within the template.
 buy: 'https://gumroad.com/l/xukM'

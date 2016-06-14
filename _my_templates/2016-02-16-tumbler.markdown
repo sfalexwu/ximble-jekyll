@@ -1,17 +1,17 @@
 ---
 layout: inner
 date: 2016-02-16
-img: https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/tumblr-screenshot.png
+img: tumblr-screenshot.png
 alt: Tumbler Template
 project-date: February 2016
 sales: 14
-price: $50
+price: $100
 files-included: HTML, images
 
 type: Responsive Bootstrap 3.3.4
 category: template
-mobile-preview: ''
-featured-image: 'https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/tumblr-screenshot.png'
+mobile-preview: 'tumblr-screenshot.png'
+featured-image: 'tumblr-screenshot.png'
 lead-text: 'Tumbler Template'
 description: Form CSS styling embedded within the template.
 buy: 'https://gumroad.com/l/sCKi'

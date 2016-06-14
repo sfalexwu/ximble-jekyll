@@ -1,0 +1,20 @@
+---
+layout: inner
+date: 2016-05-08
+img: summit-desktop-750.jpg
+alt: eBook template
+project-date: May 2016
+sales: NEW
+price: $150
+
+files-included: HTML, images
+
+type: Responsive Bootstrap 3.3.6
+mobile-preview: 'summit-mobile.jpg'
+category: template
+featured-image: 'summit-desktop.png'
+lead-text: 'Summit landing page + FREE thank you confirmation page'
+description: Includes FREE thank you confirmation page with purchase. Simple to use templates, top banner hero image is one big image with text in the image. Form stylings are in the CSS. <a href="https://s3-us-west-1.amazonaws.com/templatestud.io/library/series/summit/summit-ty-desktop.png">Click here</a> for thank you page screenshot. <a href="https://s3-us-west-1.amazonaws.com/templatestud.io/library/series/summit/summit-ty-mobile.jpg">Click here</a> for thank you confirmation page mobile version.
+buy: 'https://gum.co/YQYWG'
+
+---

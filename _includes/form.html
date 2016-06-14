@@ -1,43 +1,30 @@
  <!-- Contact Section -->
     <section id="form">
         <div class="container">
+
             <div class="row">
-                <div class="col-lg-6 col-lg-offset-3">
+                <div class="col-lg-5 col-lg-offset-1">
+                    <h2><i class="fa fa-paper-plane-o" aria-hidden="true"></i> Contact Us</h2>
+                    <p class="sub-title hidden-xs" style="color:#FFF">We build custom templates from your designer or we can create a design based off your company styleguide. See <a style="color:#FFF; text-decoration:underline;" href="/pricing/">ways to work with us</a>.</p>
+                    <p class="sub-title" style="color:#FFF;">If you'd like a free proposal or have any questions, fill out the form or
+                        contact us directly by email: <b>alex@templatestud.io</b>. </p>
+                </div>
+                <div class="col-lg-5">
+                    <form id="contactform" method="POST">
+                    <label>Email</label>
+                        <input name="_replyto" type="text" class="form-control input-lg" placeholder="email@example.com">
+                        <label>Message</label>
+                        <textarea name="message" class="form-control input-lg" placeholder="Your message..." rows="4"></textarea>
+                        <input type="hidden" name="_next" value="/thanks/" />
+                        <input type="hidden" name="_subject" value="Website Contact Form" />
+                        <input type="text" name="_gotcha" style="display:none" />
 
-                    <form action="https://docs.google.com/a/templatestud.io/forms/d/11VkDH_uJyLC9H8PGm3SPnK30k084qUpd3HIArAfYRZc/formResponse" method="POST" id="ss-form" target="_self" onsubmit="" _lpchecked="1"><ol role="list" class="ss-question-list" style="padding-left: 0">
-                        <h1 class="text-center"><i class="fa fa-paper-plane-o" aria-hidden="true"></i> Get Free Proposal</h1>
-                        <p class="sub-title" style="color:#FFF; border-bottom:1px solid #FFF;">We build custom templates from your designer or we can create a design based off your company styleguide.</p>
-                        <div class="ss-form-question errorbox-good" role="listitem">
-                            <div dir="auto" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
-                                <label class="ss-q-item-label" for="entry_2134796595"><div class="ss-q-title">Email
-                                    <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
-                                    <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
-                                    <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-                                <input type="text" name="entry.2134796595" value="" class="ss-q-short" id="entry_2134796595" dir="auto" aria-label="Email  " aria-required="true" required="" title="">
-                                <div class="error-message" id="1407521184_errorMessage"></div>
-                                <div class="required-message">This is a required question</div>
-                            </div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
-                        <div dir="auto" class="ss-item  ss-paragraph-text"><div class="ss-form-entry">
-                            <label class="ss-q-item-label" for="entry_2058532328"><div class="ss-q-title">Message
-                            </div>
-                                <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-                            <textarea name="entry.2058532328" rows="8" cols="0" class="ss-q-long" id="entry_2058532328" dir="auto" aria-label="Message"></textarea>
-                            <div class="error-message" id="2064782784_errorMessage"></div>
-                            <div class="required-message">This is a required question</div>
-                        </div></div></div>
-                        <input type="hidden" name="draftResponse" value="[,,&quot;-3856189209529660640&quot;]
-">
-                        <input type="hidden" name="pageHistory" value="0">
-
-
-
-                        <input type="hidden" name="fbzx" value="-3856189209529660640">
-
-                        <div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
-                            <input type="submit" name="submit" value="Submit" id="ss-submit" class="btn btn-2 jfk-button-action">
-
-                        </td>
-                        </tr></tbody></table></div></ol></form>
+                        <button type="submit" class="btn btn-2" value="Send">Submit</button>
+                    </form>
+                    <script>
+                        var contactform =  document.getElementById('contactform');
+                        contactform.setAttribute('action', '//formspree.io/' + 'alex' + '@' + 'templatestud' + '.' + 'io');
+                    </script>
                 </div>
             </div>
         </div>

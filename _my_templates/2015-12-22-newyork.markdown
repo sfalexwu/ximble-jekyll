@@ -1,17 +1,17 @@
 ---
 layout: inner
 date: 2015-12-22
-img: https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/new-york-ipad.png
+img: new-york-ipad.png
 alt: New york Template
 project-date: Dec 2015
 sales: 2
-price: $30
+price: $75
 files-included: HTML, images
 
 type: Responsive Bootstrap 3.3.4
-mobile-preview: 'https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/ny-mobile-screenshot.png'
+mobile-preview: 'new-york-ipad.png'
 category: template
-featured-image: 'https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/new-york-ipad.png'
+featured-image: 'newyork-template.png'
 lead-text: 'New York Template'
 description: 
 buy: 'https://gumroad.com/l/vUMVR'

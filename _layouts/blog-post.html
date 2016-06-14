@@ -6,11 +6,11 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-8 col-md-offset-2">
+            <img style="margin-top:60px;" src="../../img/blog/{{ page.img }}" class="img-responsive" alt="{{ post.alt }}">
             <h2>{% if page.title %}
                 {{ page.title }}
                 {% else %}
-                {{ site.data.global.title }}
                 {% endif %}</h2>
 
             <p class="lead">
@@ -22,14 +22,13 @@
                 {{ site.data.global.description }}
                 {% endif %}
             </p>
-            <p>{{ content }}</p>
+            {{ content }}
         </div>
     </div>
 </div>
 
 {% include footer.html %}
 {% include js.html %}
-{% include form-modal.html %}
 
 </body>
 </html>

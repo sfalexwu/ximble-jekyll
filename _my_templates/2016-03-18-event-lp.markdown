@@ -1,21 +1,20 @@
 ---
 layout: inner
 date: 2016-03-18
-img: https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/event-screenshot.png
+img: event-screenshot.png
 alt: Event Landing Page
 project-date: March 2016
 sales: 12
-price: $50
+price: $100
 files-included: HTML, images
 
 type: Responsive Bootstrap 3.3.4
 category: template
-mobile-preview: 'https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/event-mobile-screenshot.png'
-featured-image: 'https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/event-screenshot.png'
+mobile-preview: 'event-mobile-screenshot.png'
+featured-image: 'event-screenshot.png'
 lead-text: 'Event Landing Page Template'
 description: Form CSS styling embedded within the template.
 buy: 'https://gumroad.com/l/fpiaB'
 
 ---
 
-<img src="https://s3-us-west-1.amazonaws.com/templatestud.io/assets/img/event-mobile-screenshot.png" />

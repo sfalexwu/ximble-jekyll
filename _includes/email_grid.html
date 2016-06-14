@@ -1,0 +1,32 @@
+
+    <!-- Email Grid Section -->
+    <section id="templates">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <div class="section-header">
+                        <h2 style="margin:0px 0px 30px 0px;"><span class="highlight">EMAIL TEMPLATE</span></h2>
+
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                {% for my_emails in site.my_emails reversed %}
+                    <div class="col-sm-12 portfolio-item">
+                        <a href="{{ my_emails.url }}" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="../img/screens/email/{{ my_emails.img }}" class="img-responsive" alt="{{ my_emails.alt }}">
+
+                        </a>
+                    </div>
+                {% endfor %}
+            </div>
+            <div class="col-md-12 text-center">
+                <p class="sub-title">More email templates coming soon...</p>
+            </div>
+        </div>
+    </section>
