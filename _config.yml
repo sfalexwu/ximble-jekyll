@@ -72,13 +72,11 @@ defaults:
       type: "posts"
     values:
       layouts: "blog-post"
-      permalink: ""
-      categories: ""
-      img: ""
-      alt: ""
-      tags: ""
-      featured_image: ""
-      lead-text: ""
+      categories: "Marketo"
+      img: "image.jpg"
+      alt: "image"
+      featured_image: "feature.jpg"
+      lead-text: "Lead Text"
   -
     scope:
       path: ""
