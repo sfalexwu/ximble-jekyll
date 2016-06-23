@@ -71,8 +71,9 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layouts: "blog-post"
-      categories: "Marketo"
+      layout: "blog-post"
+      categories: "jekyll"
+      tags: "jekyll, web dev"
       img: "image.jpg"
       alt: "image"
       featured_image: "feature.jpg"
@@ -82,7 +83,7 @@ defaults:
       path: ""
       type: "my_templates"
     values:
-      layouts: "inner"
+      layout: "inner"
 
 # Markdown Processors
 rdiscount:

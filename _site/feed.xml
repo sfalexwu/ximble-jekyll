@@ -5,9 +5,35 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Jun 2016 08:55:01 -0700</pubDate>
-    <lastBuildDate>Thu, 23 Jun 2016 08:55:01 -0700</lastBuildDate>
+    <pubDate>Thu, 23 Jun 2016 13:30:35 -0700</pubDate>
+    <lastBuildDate>Thu, 23 Jun 2016 13:30:35 -0700</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Test1</title>
+        <description>
+</description>
+        <pubDate>Thu, 23 Jun 2016 19:44:03 -0700</pubDate>
+        <link>/test1.html</link>
+        <guid isPermaLink="true">/test1.html</guid>
+        
+        
+        <category>Marketo</category>
+        
+      </item>
+    
+      <item>
+        <title>Test</title>
+        <description>
+</description>
+        <pubDate>Thu, 23 Jun 2016 16:09:00 -0700</pubDate>
+        <link>/test.html</link>
+        <guid isPermaLink="true">/test.html</guid>
+        
+        
+        <category>Marketo</category>
+        
+      </item>
     
       <item>
         <title>Static Sites vs Wordpress CMS</title>
@@ -24,9 +50,11 @@ The benefits of going to static sites:&lt;br /&gt;
 * Simpler and cleaner architecture &lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 Jun 2016 13:48:00 -0700</pubDate>
-        <link></link>
-        <guid isPermaLink="true"></guid>
+        <link>/static-sites-vs-wordpress-cms.html</link>
+        <guid isPermaLink="true">/static-sites-vs-wordpress-cms.html</guid>
         
+        
+        <category>Marketo</category>
         
       </item>
     
@@ -79,6 +107,8 @@ Paste the code into the window and save it. &lt;/p&gt;
         
         <category>Marketo</category>
         
+        
+        <category>Marketo</category>
         
         <category>blog</category>
         
