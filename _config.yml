@@ -59,7 +59,27 @@ paginate_path: /page:num
 timezone:      null
 
 quiet:    false
-defaults: []
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layouts: "blog-post"
+      permalink: ""
+      categories: ""
+      img: ""
+      alt: ""
+      tags: ""
+      featured_image: ""
+      lead-text: ""
+  -
+    scope:
+      path: ""
+      type: "my_templates"
+    values:
+      layouts: "inner"
 
 # Markdown Processors
 rdiscount:
