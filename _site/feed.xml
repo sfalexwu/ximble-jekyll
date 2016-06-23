@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Jun 2016 15:05:00 -0700</pubDate>
-    <lastBuildDate>Thu, 23 Jun 2016 15:05:00 -0700</lastBuildDate>
+    <pubDate>Thu, 23 Jun 2016 15:45:00 -0700</pubDate>
+    <lastBuildDate>Thu, 23 Jun 2016 15:45:00 -0700</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Thu, 23 Jun 2016 19:44:03 -0700</pubDate>
-        <link>/test1.html</link>
-        <guid isPermaLink="true">/test1.html</guid>
+        <link>/blog/test1/</link>
+        <guid isPermaLink="true">/blog/test1/</guid>
         
         <category>jekyll,</category>
         
@@ -24,7 +24,7 @@
         <category>dev</category>
         
         
-        <category>jekyll</category>
+        <category>blog</category>
         
       </item>
     
@@ -33,8 +33,8 @@
         <description>
 </description>
         <pubDate>Thu, 23 Jun 2016 16:09:00 -0700</pubDate>
-        <link>/test.html</link>
-        <guid isPermaLink="true">/test.html</guid>
+        <link>/blog/test/</link>
+        <guid isPermaLink="true">/blog/test/</guid>
         
         <category>jekyll,</category>
         
@@ -43,7 +43,7 @@
         <category>dev</category>
         
         
-        <category>jekyll</category>
+        <category>blog</category>
         
       </item>
     
@@ -62,8 +62,8 @@ The benefits of going to static sites:&lt;br /&gt;
 * Simpler and cleaner architecture &lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 Jun 2016 13:48:00 -0700</pubDate>
-        <link>/static-sites-vs-wordpress-cms.html</link>
-        <guid isPermaLink="true">/static-sites-vs-wordpress-cms.html</guid>
+        <link>/blog/static-sites-vs-wordpress-cms/</link>
+        <guid isPermaLink="true">/blog/static-sites-vs-wordpress-cms/</guid>
         
         <category>jekyll,</category>
         
@@ -72,7 +72,7 @@ The benefits of going to static sites:&lt;br /&gt;
         <category>dev</category>
         
         
-        <category>jekyll</category>
+        <category>blog</category>
         
       </item>
     
@@ -125,8 +125,6 @@ Paste the code into the window and save it. &lt;/p&gt;
         
         <category>Marketo</category>
         
-        
-        <category>jekyll</category>
         
         <category>blog</category>
         
