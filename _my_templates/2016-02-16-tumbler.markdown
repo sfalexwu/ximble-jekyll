@@ -1,19 +1,21 @@
 ---
+title: Tumbler
+date: '2016-02-16 00:00:00'
+categories: template
 layout: inner
-date: 2016-02-16
 img: tumblr-screenshot.png
 alt: Tumbler Template
 project-date: February 2016
 sales: 14
-price: $100
+price: "$100"
 files-included: HTML, images
-
 type: Responsive Bootstrap 3.3.4
-category: template
-mobile-preview: 'tumblr-screenshot.png'
-featured-image: 'tumblr-screenshot.png'
-lead-text: 'Tumbler Template'
+mobile-preview: tumblr-screenshot.png
+featured-image: tumblr-screenshot.png
+lead-text: Tumbler Template
 description: Form CSS styling embedded within the template.
-buy: 'https://gumroad.com/l/sCKi'
+buy: https://gumroad.com/l/sCKi
+slug: tumbler
+tags: []
 
 ---

@@ -1,18 +1,21 @@
 ---
+title: Pirate
+date: '2015-12-27 00:00:00'
+categories: template
 layout: inner
-date: 2015-12-27
 img: pirate-feature-v2.png
 alt: pirate template
 project-date: Dec 2015
 sales: 5
-price: $75
+price: "$75"
 files-included: HTML, images
-
 type: Responsive Bootstrap 3.3.4
-mobile-preview: 'gym-mobile.jpg'
-category: template
-featured-image: 'pirate-feature-v2.png'
-lead-text: 'Pirate Template'
+mobile-preview: gym-mobile.jpg
+featured-image: pirate-feature-v2.png
+lead-text: Pirate Template
 description: Form CSS styling embedded within the template.
-buy: 'https://gumroad.com/l/xukM'
+buy: https://gumroad.com/l/xukM
+slug: pirate
+tags: []
+
 ---

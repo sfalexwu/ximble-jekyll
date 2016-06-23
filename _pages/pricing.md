@@ -1,6 +1,6 @@
 ---
-layout: pricing
 title: Pricing
-permalink: /pricing/
----
+layout: pricing
+permalink: "/pricing/"
 
+---

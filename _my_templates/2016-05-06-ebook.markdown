@@ -1,20 +1,23 @@
 ---
+title: Ebook
+date: '2016-05-06 00:00:00'
+categories: template
 layout: inner
-date: 2016-05-06
 img: ebook-screenshot-desktop-750.jpg
 alt: eBook template
 project-date: May 2016
 sales: NEW
-price: $110
-
+price: "$110"
 files-included: HTML, images
-
 type: Responsive Bootstrap 3.3.6
-mobile-preview: 'ebook-screenshot-mobile.jpg'
-category: template
-featured-image: 'ebook-screenshot-desktop.jpg'
-lead-text: 'eBook landing page'
-description: Fixed header with phone number and Marketo social share widget. Just drag in your social share widget within the Marketo editor. Easily change the colors of the template within the editor.
-buy: 'https://gum.co/pcle'
+mobile-preview: ebook-screenshot-mobile.jpg
+featured-image: ebook-screenshot-desktop.jpg
+lead-text: eBook landing page
+description: Fixed header with phone number and Marketo social share widget. Just
+  drag in your social share widget within the Marketo editor. Easily change the colors
+  of the template within the editor.
+buy: https://gum.co/pcle
+slug: ebook
+tags: []
 
 ---

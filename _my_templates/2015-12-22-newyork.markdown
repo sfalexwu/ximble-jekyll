@@ -1,20 +1,21 @@
 ---
+title: Newyork
+date: '2015-12-22 00:00:00'
+categories: template
 layout: inner
-date: 2015-12-22
 img: new-york-ipad.png
 alt: New york Template
 project-date: Dec 2015
 sales: 2
-price: $75
+price: "$75"
 files-included: HTML, images
-
 type: Responsive Bootstrap 3.3.4
-mobile-preview: 'new-york-ipad.png'
-category: template
-featured-image: 'newyork-template.png'
-lead-text: 'New York Template'
+mobile-preview: new-york-ipad.png
+featured-image: newyork-template.png
+lead-text: New York Template
 description: 
-buy: 'https://gumroad.com/l/vUMVR'
+buy: https://gumroad.com/l/vUMVR
+slug: newyork
+tags: []
 
 ---
-

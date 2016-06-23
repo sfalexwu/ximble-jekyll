@@ -1,20 +1,22 @@
 ---
+title: Cloud
+date: '2016-05-01 00:00:00'
+categories: template
 layout: inner
-date: 2016-05-01
-img: cloud-desktop-screen.png 
+img: cloud-desktop-screen.png
 alt: Cloud template
 project-date: May 2016
 sales: 4
-price: $110
-
+price: "$110"
 files-included: HTML, images
-
 type: Responsive Bootstrap 3.3.4
-mobile-preview: 'cloud-mobile.png'
-category: template
-featured-image: 'cloud-desktop.png'
-lead-text: 'Cloud Template'
-description: Includes social sharing widget, 2 styled forms, interchangeable icons, ability to toggle sections.
-buy: 'https://gum.co/PXXLn'
+mobile-preview: cloud-mobile.png
+featured-image: cloud-desktop.png
+lead-text: Cloud Template
+description: Includes social sharing widget, 2 styled forms, interchangeable icons,
+  ability to toggle sections.
+buy: https://gum.co/PXXLn
+slug: cloud
+tags: []
 
 ---

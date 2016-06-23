@@ -1,5 +1,6 @@
 ---
-layout: thanks
 title: Thanks
-permalink: /thanks/
+layout: thanks
+permalink: "/thanks/"
+
 ---
