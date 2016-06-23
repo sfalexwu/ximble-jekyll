@@ -51,6 +51,11 @@ detach:  false
 port:    4000
 host:    127.0.0.1
 
+#disqus
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "your-disqus-shortname"
 
 # Outputting
 permalink:     /:title.html
