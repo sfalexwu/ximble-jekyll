@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Jun 2016 13:30:35 -0700</pubDate>
-    <lastBuildDate>Thu, 23 Jun 2016 13:30:35 -0700</lastBuildDate>
+    <pubDate>Thu, 23 Jun 2016 15:05:00 -0700</pubDate>
+    <lastBuildDate>Thu, 23 Jun 2016 15:05:00 -0700</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -17,8 +17,14 @@
         <link>/test1.html</link>
         <guid isPermaLink="true">/test1.html</guid>
         
+        <category>jekyll,</category>
         
-        <category>Marketo</category>
+        <category>web</category>
+        
+        <category>dev</category>
+        
+        
+        <category>jekyll</category>
         
       </item>
     
@@ -30,8 +36,14 @@
         <link>/test.html</link>
         <guid isPermaLink="true">/test.html</guid>
         
+        <category>jekyll,</category>
         
-        <category>Marketo</category>
+        <category>web</category>
+        
+        <category>dev</category>
+        
+        
+        <category>jekyll</category>
         
       </item>
     
@@ -53,8 +65,14 @@ The benefits of going to static sites:&lt;br /&gt;
         <link>/static-sites-vs-wordpress-cms.html</link>
         <guid isPermaLink="true">/static-sites-vs-wordpress-cms.html</guid>
         
+        <category>jekyll,</category>
         
-        <category>Marketo</category>
+        <category>web</category>
+        
+        <category>dev</category>
+        
+        
+        <category>jekyll</category>
         
       </item>
     
@@ -108,7 +126,7 @@ Paste the code into the window and save it. &lt;/p&gt;
         <category>Marketo</category>
         
         
-        <category>Marketo</category>
+        <category>jekyll</category>
         
         <category>blog</category>
         
