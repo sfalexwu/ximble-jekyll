@@ -17,5 +17,4 @@ description: Form CSS styling embedded within the template.
 buy: https://gumroad.com/l/EpHjL
 slug: colorwheel
 tags: []
-
 ---

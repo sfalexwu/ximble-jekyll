@@ -17,5 +17,4 @@ description: Version 1.0 Created August 2015. Responsive template using Bootstra
 buy: https://gumroad.com/l/VFfxY
 slug: bamba
 tags: []
-
 ---
