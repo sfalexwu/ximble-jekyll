@@ -11,7 +11,6 @@ featured_image: ''
 permalink: "/blog/:title/"
 lead-text: Say goodbye to your ugly Marketo embedded forms
 slug: marketo-form-reset
-
 ---
 <p>A complaint I hear from most clients using Marketo is that they have ugly form stylings for their embedded forms. 
 Also developers have a hard time styling the forms because Marketo doesn't use the most friendly code for the display of their forms. </p>

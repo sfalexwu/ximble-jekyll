@@ -17,5 +17,4 @@ description:
 buy: https://gumroad.com/l/vUMVR
 slug: newyork
 tags: []
-
 ---

@@ -20,5 +20,4 @@ description: Fixed header with phone number and Marketo social share widget. Jus
 buy: https://gum.co/KMNq
 slug: ebook-thank-you
 tags: []
-
 ---

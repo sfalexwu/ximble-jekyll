@@ -17,5 +17,4 @@ description: Responsive email template. Using new hybrid fluid layout. All image
 buy: https://gum.co/SCqwL
 slug: em-brx
 tags: []
-
 ---

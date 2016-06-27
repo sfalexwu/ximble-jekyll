@@ -21,5 +21,4 @@ description: Includes FREE thank you confirmation page with purchase. Simple to 
 buy: https://gum.co/YQYWG
 slug: summit
 tags: []
-
 ---
