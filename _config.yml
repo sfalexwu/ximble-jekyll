@@ -74,10 +74,10 @@ defaults:
       permalink: /blog/:title/
       layout: "blog-post"
       categories: "blog"
-      tags: "jekyll, web dev"
+      tags: ""
       img: "image.jpg"
       alt: "image"
-      featured_image: "feature.jpg"
+      featured_image: "image.jpg"
       lead-text: "Lead Text"
   -
     scope:
