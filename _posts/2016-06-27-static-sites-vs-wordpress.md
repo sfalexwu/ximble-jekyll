@@ -9,7 +9,6 @@ img: "/forestryio/images/jekyll-vs-wordpress.jpg"
 alt: jekyll-vs-wordpress
 featured_image: ''
 lead-text: Jekyll is better for marketing and blog sites
-draft: true
 ---
 Wordpress is used by 25-35% of all websites online today. They have the biggest market share amongst all other Content Management Systems. People use Wordpress because it is easy to setup, the community is strong with a lot of Wordpress developers and there is a huge plugin library to add any feature you want to your site. However, as you may know, the most popular doesn't always equate to the best. 
 
