@@ -1,6 +1,6 @@
 ---
 title: Static Sites vs Wordpress
-date: '2016-06-27 15:38:00'
+date: '2016-06-27 00:00:00'
 permalink: "/blog/:title/"
 layout: blog-post
 categories: blog
