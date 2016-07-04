@@ -1,0 +1,43 @@
+---
+author: kjakovljevic
+comments: false
+date: 2015-01-10 19:00:18+00:00
+layout: post
+link: http://www.nimbleschedule.com/nimblenews/blog/re-capping-2014/
+slug: re-capping-2014
+title: Re-capping 2014 and Looking Forward to 2015
+wordpress_id: 1332
+categories:
+- Blog
+---
+
+2014 was a great year for NimbleSchedule! Naming all the changes and improvements we did over the last year would be a mission impossible because a lot of things happened and changed. To name just a few – we established partnerships with reputable names in the field of payroll and POS terminal services, our team expanded tremendously and the client base doubled.
+
+Over the course of 2014, there were some invaluable additions to the [executive team](http://www.nimbleschedule.com/meet-team/). Namely, Nimble Software Systems Inc. named its new CEO - Mr Sasha Poljak, an experienced entrepreneur with vast experience in the business world; Mr Tim Skansi, a professional with impressive work history, was named the CFO of the company whereas the co-founder of the company, Mr Peter Swaniker, assumed the role of the CTO thus continuing to lead the engineering team in their mission of perfecting the core product to the benefit of all our customers. 
+
+
+
+[![Employee Scheduling - Re-capping 2014](http://www.nimbleschedule.com/wp-content/uploads/2015/01/NimbleSchedule2014-thumb.jpg)](http://www.nimbleschedule.com/wp-content/uploads/2015/01/NimbleSchedule2014.jpg)
+
+
+
+Throughout 2014, our customer support team changed dramatically and doubled the number of agents. What is a great product without a hard working customer support team behind it? With that question in mind, our company made a lot of improvements in this area and increased the level of support provided to our respectful customers. The same trends were followed in the sales, marketing and IT departments as well, resulting in the increased number of staff members in general.
+
+All those staffing changes, the software improvements and the reputation rise of our company made the number of clients start growing rapidly. We are proud to say that the number of companies using our employee scheduling software doubled during 2014. What a year!
+
+With the increased number of developers and orchestrated leadership of the executive team, our product was improved significantly over the course of the last year.
+
+• We [integrated with a number of prestigious companies](http://www.nimbleschedule.com/partner-integrations/) in different areas. To name a few, we integrated with Quickbooks Online, ADP, Lightspeed and Kounta. Besides our already established integrations with BambooHR and Zenpayroll, these integrations, which came at no extra charge to our or their clients, led to significant functionality gains for our customers. As a result of a reputation increase, other companies like Trax Payroll and SimplePay recognized their interest in building an integration with our system from their end to the benefit of mutual business clients of ours.
+
+• New features and functionalities were being constantly implemented in the system over the last year. With every bi-weekly update we had, a new bundle of tools and options was added to the system and improved its overall flexibility and usability of. New reports, the Audit Log functionality in particular, added significant value to the ways of tracking and supervising a company’s productivity and the overall operational process.
+
+• The integration with various SDK systems enabled the use of various fingerprint scanners along with our time attendance system. Apart from other employee time tracking options, such as the mobile phone time clock option and the QR Code scanner option, the addition of biometric time attendance significantly improved our offer and extended the functionality of our reliable and flexible time clock module.
+
+With gained experience and feedback collected from our business clients, our company is making significant steps in re-designing the user interface to make the use of our employee scheduling system easier and more reliable. With these ideas in mind, we rolled into 2015 with the whole team working on the new interface and pitching in with new ideas and enhanced features for our clients.
+
+In the following year we intend to bring out some extraordinary new features and grow even more. It seems that nothing will stop us from serving our customers even better and building the product that will cover even a wider customer base.
+
+As we look ahead to 2015, new ideas together with the goals set for this year as well as the achievements from the past year give us many reasons to be optimistic.
+
+Stay Nimble!
+

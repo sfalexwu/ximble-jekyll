@@ -1,0 +1,41 @@
+---
+author: kjakovljevic
+comments: false
+date: 2016-01-05 13:18:35+00:00
+layout: post
+link: http://www.nimbleschedule.com/nimblenews/blog/re-capping-2015/
+slug: re-capping-2015
+title: Re-capping 2015
+wordpress_id: 2422
+categories:
+- Blog
+tags:
+- Adjustments
+- Improvements
+---
+
+If you’ve read our [“Re-capping 2014 and looking forward to 2015”](http://www.nimbleschedule.com/nimblenews/blog/re-capping-2014/) article, you must have realized that 2014 was a great year for NimbleSchedule. Well, truth to be told, 2015 was even better! Our development team made so many improvements and adjustments to the system that it would be very hard to list them all and not to forget at least some of them. We also extended our list of partnering systems by integrating with some very reputable industry leaders.
+
+![NimbleSchedule Employee Scheduling - Recap of the year](http://www.nimbleschedule.com/wp-content/uploads/2016/01/recapping2015.jpg)  
+  
+  
+
+
+In the background, our team grew as we hired more experts and worked even harder to make everyone happy with our service and software performance. If you are mainly interested in the software features and improvements, and we have no doubts you are, then you’ll probably be glad to hear that our development team tripled in the number of full time developers actively working on the software development. That means more features, more improvements and more options!
+
+Comparing the start of the year to the end, we have more than doubled our client base! We’re so proud of that fact. Both our sales and customer care teams grew enough to handle the existing customer base and successfully on-board and serve many new clients. With the variety of useful options and features, our platform remains one of the best cloud scheduling and time tracking apps on the market covering needs of small, medium and enterprise scale businesses. 
+
+
+
+<blockquote>When it comes to partnerships, we added some really big names to the list. The one that echoed the most around the web was our integration with Epson, which was announced and [mentioned by many reputable online magazines and news media](http://www.nimbleschedule.com/nimblenews/blog/the-epson-integration-internet-buzz/), such as CNNMoney, Yahoo Finance and Reuters. This amazing integration allows business owners with the POS terminal manufactured by Epson to seamlessly integrate their sales data into our system and easily monitor their income vs staffing costs. Furthermore, we added support for additional payroll providers and systems such as Paychex Online and Paychex Preview.</blockquote>
+
+
+
+In August 2015 we also separated our scheduling and time clock modules into two standalone products, allowing companies to choose one or both modules for their needs. Aside from that, we also implemented per user (per month) pricing which allows more flexibility versus the fixed package limitations that’s still widespread among some other systems. Our method allows more flexibility to business owners requiring them to pay just for the number of employees they actually need to use. 
+
+Aside from many new features and adjustments we made during 2015, we also implemented an in-app messaging feature which allows clients to communicate with our customer care team easily while using the software, without having to leave the page. This feature was quite well received among clients, who can now seek support from our experienced team through many different channels, like live chat, in-app messenger, ticketing system, phone, or even social media.
+
+We could go on and on with enumerating all of the 2015's achievements,  but you know what? We have a better idea. Why don’t you stick around and witness all the great changes we plan to implement in 2016? Just to give you a small hint - with triple the size of our development team, we must be preparing some really amazing changes and super useful features, no? 
+
+Stay tuned and stay Nimble!
+

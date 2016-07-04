@@ -1,0 +1,51 @@
+---
+author: kjakovljevic
+comments: false
+date: 2015-11-08 13:01:28+00:00
+layout: post
+link: http://www.nimbleschedule.com/nimblenews/product-news/recent-releases/new-in-patch-6-22-5/
+slug: new-in-patch-6-22-5
+title: New in Patch 6.22.5
+wordpress_id: 2353
+categories:
+- Recent Releases
+tags:
+- Adjustements
+- Improvements
+- Patch
+- Shift Changes
+---
+
+From time to time, our development team releases patches with improvements and fixes that you may not even notice while using the system. The latest patch, officially called 6.22.5, brought a very interesting new feature and a couple of improvements and adjustments to the existing functionalities. 
+
+The newly added feature is called “Shift changes”. As an existing user, you can utilize it by enabling the option “Employees can request shift change” in the Schedule area of the Settings section. Once you do that, your employees will be able to submit a couple of new types of requests. To be more precise, your employees will have a chance to:
+
+[![How to enable Shift Changes](http://www.nimbleschedule.com/wp-content/uploads/2015/11/Shift-Change-thumb.jpg)](http://www.nimbleschedule.com/wp-content/uploads/2015/11/Shift-Change.jpg)  
+  
+  
+
+
+• **Add New Shift** – This option allows your employees to submit a desired time slot and the position they would like to work. Once submitted, that request comes to the manager or administrator for an approval. When they approve it, the system automatically creates a shift for an employee with the submitted data.
+
+• **Change Shift** – This option allows your employees to submit a desired change to an existing shift. A request with the adjusted time slot goes to the manager or administrator for an approval, as well.
+
+• **Reassign Shift** – This option allows your employee to ask for an approval for their existing shift to be reassigned to another employee. An employee will also have a chance to select a co-worker with the same position/ job role and, once the manager approves such a request, the shift will be re-assigned to the suggested employee.
+
+• **Remove Shift** – This option allows your employee to request a removal of their shift. As opposed to our standard “Drop shift” request, the shift will be completely removed instead of being sent to the Open Shifts area.
+
+
+
+<blockquote>As with all other scheduling features in our system, both employees and managers will be notified with appropriate notifications for all these requests, either via email or SMS.</blockquote>
+
+
+
+Besides the above-mentioned new feature, a couple of adjustments and improvements were made to the existing set of features. One of those adjustments to the existing features is the option to allow managers to adjust pay rates for employees working on locations they manage. Per requests that came from a lot of clients who wanted to have more control over who could change the pay rate for an employee, we made an adjustment to the system which no longer allows such data to be changed by anyone working in the manager user role. In order to adjust the pay rate for any employee, from now on the system will require an adjustment to be made by someone working in the “Admin” user role.
+
+In addition, a few significant improvements were made to the code that handles shift changes so large companies with a lot of shifts per each location may notice significant speed improvement on their end. Those who manage less than a couple of hundreds of employees per a single location and less than a couple of thousands of shifts per location may not notice any difference, as the system will work quite fast in their case. However, those with hundreds of employees and thousands of shifts per a single location will notice significant improvement while editing shifts, re-assigning them to other employees and similar.
+
+
+
+<blockquote>In case you have any comments or suggestions, please feel free to reach out to us and send us your feedback via our [contact page](http://www.nimbleschedule.com/contact-us/).</blockquote>
+
+
+

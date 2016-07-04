@@ -1,0 +1,8 @@
+---
+title: Retail
+date: '2016-07-04 00:00:00'
+categories: retail
+layout: industries
+permalink: "/retail/"
+
+---

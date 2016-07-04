@@ -1,2 +1,2 @@
-# sfalexwu.github.io
-Templatestud.io Jekyll Site
+# Ximble July
+Jekyll Site
