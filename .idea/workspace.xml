@@ -2,84 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1d2c27e-0784-4309-9746-ada8e73a60a9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/email_grid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/hero.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/home-main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/pagination.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/portfolio_grid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/tile.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/blog-post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/inner.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/store.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_my_emails/2016-05-09-em-brx.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_my_templates/2015-01-04-clockwork.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_my_templates/2015-12-20-bamba.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_my_templates/2015-12-22-newyork.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_my_templates/2015-12-27-pirate.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_my_templates/2016-02-16-tumbler.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_my_templates/2016-03-18-event-lp.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_my_templates/2016-04-09-colorwheel.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_my_templates/2016-05-01-cloud.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_my_templates/2016-05-06-ebook.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_my_templates/2016-05-07-ebook-thank-you.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_my_templates/2016-05-08-summit.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_pages/blog.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_pages/store.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-14-marketo-form-reset.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-27-static-sites-vs-wordpress.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-30-test-2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/blog/marketo-form-reset/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/1560.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/avatar-me copy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/cake.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/form-bg-2400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/form-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/formbg-2400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/portfolio/cabin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/portfolio/cake.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/portfolio/circus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/portfolio/game.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/portfolio/safe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/portfolio/submarine.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/screens/brx-email.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/store/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/template/bamba/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/template/clockwork/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/template/cloud/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/template/colorwheel/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/template/ebook-thank-you/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/template/ebook/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/template/em-brx/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/template/event-lp/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/template/newyork/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/template/pirate/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/template/summit/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/template/tumbler/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/forestryio/images/better-forms.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/forestryio/images/blue-line-btn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/forestryio/images/cog.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/forestryio/images/form-css.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/forestryio/images/jekyll-vs-wordpress.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CNAME" afterPath="$PROJECT_DIR$/CNAME" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/js.html" afterPath="$PROJECT_DIR$/_includes/js.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/nav.html" afterPath="$PROJECT_DIR$/_includes/nav.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/blog.html" afterPath="$PROJECT_DIR$/_layouts/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/pricing.html" afterPath="$PROJECT_DIR$/_layouts/pricing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/CNAME" afterPath="$PROJECT_DIR$/_site/CNAME" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/README.md" afterPath="$PROJECT_DIR$/_site/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/index.html" afterPath="$PROJECT_DIR$/_site/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/style.css" afterPath="$PROJECT_DIR$/_site/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pricing/index.html" afterPath="$PROJECT_DIR$/_site/pricing/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/thanks/index.html" afterPath="$PROJECT_DIR$/_site/thanks/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.scss" afterPath="$PROJECT_DIR$/css/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-01-test-5.md" afterPath="$PROJECT_DIR$/_posts/2016-07-01-test-5.md" />
     </list>
     <ignored path="sfalexwu.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -180,7 +105,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="9" />
     <option name="y" value="23" />
-    <option name="width" value="1435" />
+    <option name="width" value="816" />
     <option name="height" value="959" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -345,15 +270,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="9" y="23" width="1435" height="959" extended-state="0" />
+    <frame x="9" y="23" width="816" height="959" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3125884" sideWeight="0.51787776" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.55597484" sideWeight="0.51787776" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24968474" sideWeight="0.4959724" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3125884" sideWeight="0.48212227" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.55597484" sideWeight="0.48212227" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
