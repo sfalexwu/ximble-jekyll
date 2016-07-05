@@ -6,21 +6,9 @@
 <div class="container">
     <div class="row">
         <div class="col-md-12 pad-top">
-            <h2>{% if page.title %}
-                {{ page.title }}
-                {% else %}
-                {{ site.data.global.title }}
-                {% endif %}</h2>
+            <h1>&nbsp;</h1>
+            <h2>{{ page.title }}</h2>
 
-            <p class="lead">
-                {% if page.lead-text %}
-                {{ page.lead-text }}
-                {% elsif post.lead-text %}
-                {{ post.lead-text }}
-                {% else %}
-                {{ site.data.global.description }}
-                {% endif %}
-            </p>
         </div>
     </div>
 
